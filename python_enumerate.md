@@ -7,6 +7,7 @@ Yikes! That's an ugly sentence, so here's an example:
 ```python
 evil_companies = ['Comcast', 'Disney', 'Monsanto', 'McDonalds',]
 list(enumerate(evil_companies))
+
 # output: [(0, 'Comcast'), (1, 'Disney'), (2, 'Monsanto'), (3, 'McDonalds')]
 ```
 
