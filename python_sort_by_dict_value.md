@@ -41,7 +41,7 @@ You could import python's `operator` module to do the same thing.
 ```python
 import operator
 
-sorted(my_dict.items(), key=operator.itemgetter())
+sorted(my_dict.items(), key=operator.itemgetter(1))
 
 # output: [('E', 1), ('D', 2), ('C', 3), ('B', 4), ('A', 5)]
 ```
