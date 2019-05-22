@@ -31,3 +31,21 @@ dict(sorted_list)
 
 # output: {'E': 1, 'D': 2, 'C': 3, 'B': 4, 'A': 5}
 ```
+
+
+
+### Alternatively...
+
+You could import python's `operator` module to do the same thing.
+
+```python
+import operator
+
+sorted(my_dict.items(), key=operator.itemgetter())
+
+# output: [('E', 1), ('D', 2), ('C', 3), ('B', 4), ('A', 5)]
+```
+
+For more about python's operator module, check out the [docs](https://docs.python.org/3/library/operator.html).
+
+Happy pythoning.
