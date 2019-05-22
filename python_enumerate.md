@@ -21,6 +21,10 @@ def make_numbers_happen(iterable, count=0):
     for element in iterable:
         yield num, element
         num += 1
+        
+list(make_numbers_happen(evil_companies))
+
+# output: [(0, 'Comcast'), (1, 'Disney'), (2, 'Monsanto'), (3, 'McDonalds')]
 ```
 
 `enumerate()` can be useful when we're looking to keep track of the index of the elements in our iterables. 
