@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./python_logo.png" alt="python logo">
+  <img src="img/python_logo.png" alt="python logo">
 </p>
 
 <h1 align="center">Tims-Python-Toolbox</h1>
