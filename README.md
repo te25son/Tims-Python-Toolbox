@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="img/python_logo.png" alt="python logo">
+  <img src="img/python_logo.png" alt="python logo">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img/django_logo.png" alt="django logo" height="110" width="220">
 </p>
 
 <h1 align="center">Tims-Python-Toolbox</h1>
