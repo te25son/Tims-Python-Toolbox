@@ -9,6 +9,6 @@ Kind of like a journal, but for pythony things. It's a place where I can add thi
 
 This is really to help me better understand the things I learn, but maybe you'll find some of the things here interesting too.
 
-You can also check it out on [my personal website](http://www.timpeason.com/toolbox/)
+You can also check it out on [my personal website](https://www.timpeason.com/toolbox/)
 
 Enjoy :)
